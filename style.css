@@ -1,0 +1,45 @@
+h2{
+    text-align: center;
+    margin-bottom: 70px;
+}
+#HH{
+    margin-left: 15px;
+    height: 40px;
+    width: 50px;
+    text-decoration: none;
+    
+}
+#MM{
+    line-height: 20px;
+    height: 40px;
+    width: 50px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+#SS{
+    height: 40px;
+    width: 50px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.top{
+    text-align: center;
+}
+.lower{
+    text-align: center;
+}
+#time{
+    font-size: 100px;
+    text-align: center;
+    
+}
+button{
+    height: 50px;
+    width: 150px;
+    font-size: larger;
+    color: white;
+    background-color: #181823;
+}
+label{
+    font-size: 20px;
+}
